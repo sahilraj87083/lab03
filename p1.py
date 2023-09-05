@@ -41,6 +41,7 @@ def main():
         'Name':['Raman','Himadri','jaya','Tejas','Ajay'],
         'Age': [41, 38, 51, 30,40],
         'Salary': [56000,67500,82100,55000,44000]
+        
     }
     emp=Employee()
     emp.show(data)
